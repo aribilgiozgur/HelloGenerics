@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloGenerics
 {
-    class Silah<T>
+    class Silah<T> where T:ISarjor
 
     {
         public int SeriNo { get; set; }
