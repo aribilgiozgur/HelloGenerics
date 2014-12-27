@@ -1,0 +1,6 @@
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\bin\Debug\HelloGenerics.exe.config
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\bin\Debug\HelloGenerics.exe
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\bin\Debug\HelloGenerics.pdb
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\obj\Debug\HelloGenerics.csprojResolveAssemblyReference.cache
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\obj\Debug\HelloGenerics.exe
+c:\users\aribilgi\documents\visual studio 2012\Projects\HelloGenerics\HelloGenerics\obj\Debug\HelloGenerics.pdb
